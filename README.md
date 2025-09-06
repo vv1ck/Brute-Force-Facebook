@@ -85,9 +85,8 @@ user@example.com:qwerty2024
 ```
 - Proxy file (HTTP/S supported):
 ```text
-http://127.0.0.1:8080
-https://127.0.0.1:8443
-http://user:pass@host:port
+ip:port
+user:pass@host:port
 ```
 Notes:
 - Proxies are randomly rotated. The tool persists until a working proxy is found.
@@ -129,4 +128,5 @@ This repository is for educational and research purposes only. Unauthorized use 
 Support me with a cup of coffee:  
 - Usdt Tron (TRC20) : TJV9c9PbvBcY86LTnWUrfSenoywye1WHJL
 - Litecoin: Lg8Njr8G8VdrgFrXQvwRRr1ctqAB4iLmyS
+
 
