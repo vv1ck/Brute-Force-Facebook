@@ -25,7 +25,7 @@ def LOGO():
            )===(       *                           Verify subscription ..
           /     \
           |     |       CAT HACK
-         /       \   IG: @_cathack
+         /       \   IG: @_cathack & @221298
          \       /
   _/\_/\_/\__  _/_/\_/\_/\_/\_/\_/\_/\_/\_/\_
   |  |  |  |( (  |  |  |  |  |  |  |  |  |  |
@@ -407,5 +407,7 @@ class TwitterLogin:
 
 #==================================== Starts App : #====================================
 def main():
+    print(LOGO())
+    time.sleep(1.4)
     TwitterLogin()
 main()
