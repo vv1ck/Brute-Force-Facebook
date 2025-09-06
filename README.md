@@ -127,7 +127,5 @@ This repository is for educational and research purposes only. Unauthorized use 
 
 ## Support
 Support me with a cup of coffee:  
-USDT: disi38eiowie
-
-ادعمني بكأس من القهوة:  
-USDT: disi38eiowie
+Usdt Tron (TRC20) : TJV9c9PbvBcY86LTnWUrfSenoywye1WHJL
+Litecoin: Lg8Njr8G8VdrgFrXQvwRRr1ctqAB4iLmyS
